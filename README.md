@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=02d1fa&center=true&vCenter=true&multiline=false&lines=Welcome+To+My+Github+" alt="">
+</p>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">, I'm Skyw4lkeR77!</h1>
 <br>
 
