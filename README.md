@@ -2,7 +2,7 @@
 <p align="center"><i>"To exist is to resist."</i></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qU0vwUXpP3kLZy2x5p/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/3ohs7KViFEl9C/giphy.gif" width="250" />
 </p>
 
 <p align="center">
