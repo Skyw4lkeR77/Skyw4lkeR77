@@ -1,19 +1,19 @@
 <h1 align="center">🇵🇸 Free Palestine 🇵🇸</h1>
-<h3 align="center"><em>"To exist is to resist."</em></h3>
+<p align="center"><i>"To exist is to resist."</i></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ1a2Nocm5mN2ZmdjE5Y2lyM2k4dG1zZW1zbnlvYXVzZ3NoajI3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qU0vwUXpP3kLZy2x5p/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/qU0vwUXpP3kLZy2x5p/giphy.gif" width="250" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=From+the+river+to+the+sea...;Palestine+will+be+free!" alt="Typing SVG" />
 </p>
 
 ---
 
-### <img src="https://img.icons8.com/emoji/48/palestinian-territories-emoji.png" width="20"/> **Tentang Saya**
-
----
-
-### <img src="https://img.icons8.com/color/48/protest.png" width="24"/> **Dukung Palestina**
+### <img src="https://img.icons8.com/emoji/48/palestinian-territories-emoji.png" width="24"/> Stand for Justice
 
 ```diff
-+ 🟥 Berdiri bersama rakyat Palestina
-+ 🟩 Sebarkan kesadaran & kebenaran
-+ ⬛ Dukung kemanusiaan & keadilan
++ 🟥 Resist Oppression
++ ⬛ Amplify the Truth
++ 🟩 Demand Freedom
